@@ -1,8 +1,8 @@
-# Welcome 
+# Welcome
 
-Welcome to Figure's DevOps skills assessment! 
+Welcome to Figure's DevOps skills assessment!
 
-The goal of this assessment is to get an idea of how you work and your ability to speak in depth about the details in your work. Generally, this assessment should not take you longer than 30 minutes to complete. 
+The goal of this assessment is to get an idea of how you work and your ability to speak in depth about the details in your work. Generally, this assessment should not take you longer than 30 minutes to complete.
 
 Your answers will be reviewed with you in a subsequent interview.
 
@@ -16,12 +16,12 @@ Your answers will be reviewed with you in a subsequent interview.
 
 ### Kubernetes
 
-1. Fix the issues with this Kubernetes manifest to ensure it is ready for deployment. 
+1. Fix the issues with this Kubernetes manifest to ensure it is ready for deployment.
 2. Add the following limits and requests to the manifest:
 - CPU limit of 0.5 CPU cores
 - Memory limit of 256 Mebibytes
 - CPU request of 0.2 CPU cores
-- Memory request of 128 Mebibytes 
+- Memory request of 128 Mebibytes
 
 ```yaml
 apiVersion: apps/v1
